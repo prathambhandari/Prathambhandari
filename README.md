@@ -10,3 +10,6 @@
 - 📫 How to reach me: Twitter - [Twitter - @iampratham24](https://twitter.com/iampratham24)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I sing 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Prathambhandari&theme=<THEME_NAME>" />
+
