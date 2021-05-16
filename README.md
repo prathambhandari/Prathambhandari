@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with flutter community
 - 💬 Ask me about Flutter or any tech stuff
-- 📫 How to reach me: Twitter - @iampratham24
+- 📫 How to reach me: Twitter - [Twitter - @iampratham24](https://twitter.com/iampratham24)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I sing 
