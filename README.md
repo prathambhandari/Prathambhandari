@@ -3,7 +3,6 @@
 
 ## I'm a Flutter Developer !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Java,Web Development and Flutter🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: To be sucessful Freelancer
