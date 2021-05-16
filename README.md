@@ -3,7 +3,7 @@
 
 ## I'm a Flutter Developer !!
 
-- 🌱 I’m currently learning Java,Web Development and Flutter🤣
+- 🌱 I’m currently learning Java,Web Development and Flutter
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2021 Goals: To be sucessful Freelancer
 - ⚡ Fun fact: I love to Sing and travel
