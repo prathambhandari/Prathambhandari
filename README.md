@@ -11,5 +11,5 @@
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I sing 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Prathambhandari&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=Prathambhandari&theme=Top Languages" />
 
