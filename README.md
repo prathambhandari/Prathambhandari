@@ -32,8 +32,8 @@
 ---
 
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prathambhandari&show_icons=true&theme=radical"/>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathambhandari"/>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prathambhandari&show_icons=true&theme=vue"/>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathambhandari&theme=vue"/>
   
 
 [website]: https://codeSTACKr.com
