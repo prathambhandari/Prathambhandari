@@ -10,7 +10,6 @@
 
 ### Connect with me:
 
-<!--
 [<img align="left" alt="pratham | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="pratham | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="pratham | Instagram" width="22px" src="https://www.pngjoy.com/pngm/30/718475_social-media-new-instagram-logo-png-transparent-background.png" />][instagram]
