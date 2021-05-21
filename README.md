@@ -34,7 +34,7 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathambhandari&theme=graywhite"/>
   
 
-[website]: https
+[website]:
 [twitter]: https://twitter.com/iampratham24
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/prathamkbhandari/?hl=en
