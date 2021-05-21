@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Java,Web Development and Flutter
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2021 Goals: To be sucessful Freelancer
+- 🥅 2021 Goals: To be sucessful Freelance
 - ⚡ Fun fact: I love to Sing and travel
 
 ### Connect with me:
