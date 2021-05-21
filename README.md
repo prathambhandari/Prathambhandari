@@ -1,4 +1,4 @@
-### Hi there, I'm Pratham Bhandari 👋
+### Hi there, I'm ratham Bhandari 👋
 
 
 ## I'm a Flutter Developer !!
