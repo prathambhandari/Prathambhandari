@@ -1,9 +1,9 @@
 ### Hi there, I'm Pratham Bhandari 👋
 
 ## I'm a Flutter Developer !!
-- 🌱 I’m currently learning Java,Web Development and Flutter
+- 🌱 I’m currently learning and working with Flutter
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: To be sucessful Developer
+- 🥅 2022 Goals: To be sucessful Developer and travel internationally
 - ⚡ Fun fact: I love to Sing and travel
 
 ### Connect with me:
