@@ -1,6 +1,7 @@
-### Hi there, I'm Pratham Bhandari 👋
 
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
+
+### Hi there, I'm Pratham Bhandari 👋
 
 ## I'm a Flutter and Web Developer !!
 - 🌱 I’m currently learning and working with Flutter and Websites
