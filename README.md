@@ -12,7 +12,7 @@
 [<img align="left"  alt="pratham | Twitter" width="40px" height="40px"  src="https://i.pinimg.com/736x/45/26/95/45269542660b7a985dd967451c31b2d0.jpg" />][twitter]
 [<img align="left" alt="pratham | LinkedIn" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />][linkedin]
 [<img align="left" alt="pratham | Instagram" width="40px" height="40px" src="https://www.pngplay.com/wp-content/uploads/1/Round-Instagram-Logo-PNG-HD-Quality.png" />][instagram]
-[<img align="left"  alt="pratham | leetcode" width="40px" height="40px"  src="https://i.pinimg.com/736x/45/26/95/45269542660b7a985dd967451c31b2d0.jpg" />][leetcode]
+[<img align="left"  alt="pratham | leetcode" width="40px" height="40px"  src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
 
 
 <br />
