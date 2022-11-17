@@ -1,10 +1,11 @@
 ### Hi there, I'm Pratham Bhandari 👋
 
-## I'm a Flutter Developer !!
-- 🌱 I’m currently learning and working with Flutter
-- 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: To be sucessful Developer and travel internationally
+## I'm a Flutter and Web Developer !!
+- 🌱 I’m currently learning and working with Flutter and Websites
+- 👯 I’m looking to collaborate with other Developers 
+- 🥅 2023 Goals: To be sucessful Developer and travel internationally
 - ⚡ Fun fact: I love to Sing and travel
+- 💬 Ask me about Flutter and Web
 
 ### Connect with me:
 
@@ -16,12 +17,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Dart" width="26px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Flutter" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
+<img align="left" alt="Dart" width="40px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
+<img align="left" alt="Firebase" width="40px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
+<img align="left" alt="HTML" width="40px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" />
+<img align="left" alt="CSS" width="40px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
+<img align="left" alt="JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
 
