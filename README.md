@@ -9,10 +9,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="pratham | Twitter" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
-[<img align="left" alt="pratham | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />][linkedin]
-[<img align="left" alt="pratham | Instagram" width="22px" src="https://www.pngjoy.com/pngm/30/718475_social-media-new-instagram-logo-png-transparent-background.png" />][instagram]
+[<img align="left"  alt="pratham | Twitter" width="40px" height="40px"  src="https://i.pinimg.com/736x/45/26/95/45269542660b7a985dd967451c31b2d0.jpg" />][twitter]
+[<img align="left" alt="pratham | LinkedIn" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />][linkedin]
+[<img align="left" alt="pratham | Instagram" width="40px" height="40px" src="https://www.pngplay.com/wp-content/uploads/1/Round-Instagram-Logo-PNG-HD-Quality.png" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools:
