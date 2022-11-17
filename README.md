@@ -22,7 +22,6 @@
 <br />
 
 ### Languages and Tools:
-<br />
 <img align="left" alt="Flutter" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 <img align="left" alt="Dart" width="40px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
 <img align="left" alt="Firebase" width="40px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
