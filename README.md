@@ -44,7 +44,7 @@
 <!-- <img align="left" alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Prathambhandari&show_icons=true&theme=graywhite"/>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathambhandari&theme=graywhite"/> -->
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=prathambhandari&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=prathambhandari&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 [twitter]: https://twitter.com/iampratham24
 [youtube]: https://youtube.com/codeSTACKr
