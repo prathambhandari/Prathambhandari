@@ -1,7 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
-### Hi there, I'm Pratham Bhandari <img align="left" alt="codeSTACKr's GitHub Stats"  src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif"/>
+### Hi there, I'm Pratham Bhandari <img align="left" alt="[https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif](https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif)"/>
+
 <br />
 
 ## I'm a Web Developer !!
@@ -19,6 +20,7 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<br />
 <br />
 ### Programming Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
