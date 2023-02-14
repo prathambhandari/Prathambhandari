@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2023 Goals: To be sucessful Developer and travel internationally
 - ⚡ Fun fact: I love to Sing and travel
-- 💬 I have a tech Youtube channel.
+- 💬 Love Programming,Astrophysics and travelling.
 <br />          
 
 ### Connect with me:
