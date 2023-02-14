@@ -14,7 +14,8 @@
 <br />          
 
 ### Connect with me:
-[BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/prathambhandari) 
+[BuyMeACoffee]()
 [Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -61,7 +62,7 @@
 <!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=prathambhandari&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathambhandari&title_color=000&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-[BuyMeACoffee]: https://www.buymeacoffee.com/prathambhandari
+[BuyMeACoffee]: 
 [Twitter]: https://twitter.com/iampratham24
 [YouTube]: https://www.youtube.com/channel/UCeVe4cXVtvN0p4Rcw8sQNBw
 [Instagram]: https://www.instagram.com/prathamkbhandari/?hl=en
