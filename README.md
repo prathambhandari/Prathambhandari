@@ -62,12 +62,12 @@
 <!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=prathambhandari&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathambhandari&title_color=000&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-[BuyMeACoffee]: https://www.buymeacoffee.com/prathambhandari
-[Twitter]: https://twitter.com/iampratham24
-[YouTube]: https://www.youtube.com/channel/UCeVe4cXVtvN0p4Rcw8sQNBw
-[Instagram]: https://www.instagram.com/prathamkbhandari/?hl=en
-[LinkedIn]: https://www.linkedin.com/in/pratham-bhandari-5a81991a0/
-[LeetCode]: https://leetcode.com/Prathambhandari/
+[BuyMeACoffee]:https://www.buymeacoffee.com/prathambhandari
+[Twitter]:https://twitter.com/iampratham24
+[YouTube]:https://www.youtube.com/channel/UCeVe4cXVtvN0p4Rcw8sQNBw
+[Instagram]:https://www.instagram.com/prathamkbhandari/?hl=en
+[LinkedIn]:https://www.linkedin.com/in/pratham-bhandari-5a81991a0/
+[LeetCode]:https://leetcode.com/Prathambhandari/
 
 
 
