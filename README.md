@@ -14,13 +14,13 @@
 <br />          
 
 ### Connect with me:
-[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/prathambhandari) 
-[BuyMeACoffee]()
-[Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-[LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-[Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-[LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-[YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>](https://www.buymeacoffee.com/prathambhandari)
+[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/iampratham24)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pratham-bhandari-5a81991a0/)
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/prathamkbhandari/?hl=en)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>](https://leetcode.com/Prathambhandari/)
+[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>]([https://www.buymeacoffee.com/prathambhandari](https://www.youtube.com/channel/UCeVe4cXVtvN0p4Rcw8sQNBw))
+
 
 
 ### Programming Languages and Tools:
@@ -61,13 +61,6 @@
 
 <!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=prathambhandari&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathambhandari&title_color=000&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
-
-[BuyMeACoffee]: 
-[Twitter]: https://twitter.com/iampratham24
-[YouTube]: https://www.youtube.com/channel/UCeVe4cXVtvN0p4Rcw8sQNBw
-[Instagram]: https://www.instagram.com/prathamkbhandari/?hl=en
-[LinkedIn]: https://www.linkedin.com/in/pratham-bhandari-5a81991a0/
-[LeetCode]: https://leetcode.com/Prathambhandari/
 
 
 
