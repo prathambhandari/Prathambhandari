@@ -23,20 +23,7 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Flutter" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Dart" width="40px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
-<img align="left" alt="Firebase" width="40px" src="https://cdn.icon-icons.com/icons2/691/PNG/512/google_firebase_icon-icons.com_61474.png" />
-<img align="left" alt="HTML" width="40px" src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" />
-<img align="left" alt="CSS" width="40px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
-<img align="left" alt="JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" />
-<img align="left" alt="React" width="40px" src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" />
-<img align="left" alt="jQuery" width="40px" src="https://www.pngitem.com/pimgs/m/206-2069866_transparent-css3-logo-png-jquery-logo-png-png.png" />
-<img align="left" alt="Nodejs" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
-<img align="left" alt="Linux" width="40px" src="https://www.freepnglogos.com/uploads/linux-png/linux-logo-logo-brands-for-0.png" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="AWS" width="40px" src="https://www.svgrepo.com/show/331300/aws.svg" />
+
 <br />
 <br />
 
