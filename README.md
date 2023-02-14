@@ -1,16 +1,17 @@
 
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
-### Hi there, I'm Pratham Bhandari 
-<img align="left" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
+### Hi there, I'm Pratham Bhandari <img align="left" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
-## I'm a Web Developer !!
-- 🌱 I’m currently learning Blockchain and MERN Stack.
-- 👯 I’m looking to collaborate with other Developers 
-- 🥅 2023 Goals: To be sucessful Developer and travel internationally
-- ⚡ Fun fact: I love to Sing and travel
-- 💬 I have a tech Youtube channel.
+          - ## I'm a Web Developer !!
+          - 🌱 I’m currently learning Blockchain and MERN Stack.
+          - 👯 I’m looking to collaborate with other Developers 
+          - 🥅 2023 Goals: To be sucessful Developer and travel internationally
+          - ⚡ Fun fact: I love to Sing and travel
+          - 💬 I have a tech Youtube channel.
+<br />          
 
 ### Connect with me:
 
@@ -20,8 +21,8 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-<br />
-<br />
+
+
 ### Programming Languages and Tools:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
