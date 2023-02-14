@@ -1,9 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
-### Hi there, I'm Pratham Bhandari <img align="left" alt="[https://media.tenor.com/YUzRkMOL-3EAAAAM/programming-computer-frog.gif](https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif)"/>
+### Hi there, I'm Pratham Bhandari 
+<img align="left" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<br />
 
 ## I'm a Web Developer !!
 - 🌱 I’m currently learning Blockchain and MERN Stack.
