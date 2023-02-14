@@ -12,13 +12,12 @@
 
 ### Connect with me:
 
-[<img align="left"  alt="pratham | buy me a coffee" width="150px" height="40px"  src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" />][coffee]
-[<img align="left"  alt="pratham | Twitter" width="40px" height="40px"  src="https://i.pinimg.com/736x/45/26/95/45269542660b7a985dd967451c31b2d0.jpg" />][twitter]
-[<img align="left" alt="pratham | LinkedIn" width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" />][linkedin]
-[<img align="left" alt="pratham | Instagram" width="40px" height="40px" src="https://www.pngplay.com/wp-content/uploads/1/Round-Instagram-Logo-PNG-HD-Quality.png" />][instagram]
-[<img align="left"  alt="pratham | leetcode" width="40px" height="40px"  src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
-
-
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 <br />
 <br />
 
@@ -69,12 +68,12 @@
 
 <!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=prathambhandari&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[coffee]: https://www.buymeacoffee.com/prathambhandari
-[twitter]: https://twitter.com/iampratham24
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/prathamkbhandari/?hl=en
-[linkedin]: https://www.linkedin.com/in/pratham-bhandari-5a81991a0/
-[leetcode]: https://leetcode.com/Prathambhandari/
+[BuyMeACoffee]: https://www.buymeacoffee.com/prathambhandari
+[Twitter]: https://twitter.com/iampratham24
+[YouTube]: https://youtube.com/codeSTACKr
+[Instagram]: https://www.instagram.com/prathamkbhandari/?hl=en
+[LinkedIn]: https://www.linkedin.com/in/pratham-bhandari-5a81991a0/
+[LeetCode]: https://leetcode.com/Prathambhandari/
 
 
 
