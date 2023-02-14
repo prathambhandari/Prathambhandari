@@ -5,12 +5,12 @@
 ### Hi there, I'm Pratham Bhandari <img align="left" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 
-          - ## I'm a Web Developer !!
-          - 🌱 I’m currently learning Blockchain and MERN Stack.
-          - 👯 I’m looking to collaborate with other Developers 
-          - 🥅 2023 Goals: To be sucessful Developer and travel internationally
-          - ⚡ Fun fact: I love to Sing and travel
-          - 💬 I have a tech Youtube channel.
+## I'm a Web Developer !!
+- 🌱 I’m currently learning Blockchain and MERN Stack.
+- 👯 I’m looking to collaborate with other Developers 
+- 🥅 2023 Goals: To be sucessful Developer and travel internationally
+- ⚡ Fun fact: I love to Sing and travel
+- 💬 I have a tech Youtube channel.
 <br />          
 
 ### Connect with me:
