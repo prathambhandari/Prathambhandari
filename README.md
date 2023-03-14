@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Blockchain and MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
 - 🥅 2023 Goals: To be sucessful Developer and travel internationally
-- ⚡ Fun fact: I love to Sing and travel
+- ⚡ Fun fact: I love to Sing
 - 💬 Love Programming, Astrophysics and travelling.
 <br />          
 
