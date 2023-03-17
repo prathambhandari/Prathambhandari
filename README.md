@@ -57,8 +57,10 @@
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-<br />
+<hr />
+
 <img align="left" alt="codeSTACKr's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Prathambhandari&show_icons=true&theme=graywhite"/>
+
 
 <!-- [![activity graph](https://activity-graph.herokuapp.com/graph?username=prathambhandari&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathambhandari&title_color=000&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
