@@ -18,6 +18,8 @@
 [<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>](https://paypal.me/prathamkbhandari?country.x=IN&locale.x=en_GB)
 <br>
 
+<strong>ETH :</strong> 0x200264F4C8f74eCC73751746728964912be38552
+
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/iampratham24)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pratham-bhandari-5a81991a0/)
