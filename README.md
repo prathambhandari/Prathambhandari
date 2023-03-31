@@ -63,6 +63,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathambhandari&title_color=000&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
