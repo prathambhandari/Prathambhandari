@@ -13,7 +13,7 @@
 - 💬 Love Programming, Astrophysics and travelling.
 <br />          
 
-### Support me:
+### You can help me by Donating:
 [<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>](https://www.buymeacoffee.com/prathambhandari)
 [<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>](https://paypal.me/prathamkbhandari?country.x=IN&locale.x=en_GB)
 <br>
