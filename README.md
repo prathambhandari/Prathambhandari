@@ -1,5 +1,5 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#171D1E&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030404&height=120&section=header"/>
 </a>
 
 
@@ -70,7 +70,7 @@
 
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#171D1E&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=030404&height=120&section=footer"/>
 </a>
 
 
