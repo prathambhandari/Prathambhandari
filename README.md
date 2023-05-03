@@ -1,3 +1,7 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
 
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
@@ -64,5 +68,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathambhandari&title_color=000&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
+
+
 
 
