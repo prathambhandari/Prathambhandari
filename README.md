@@ -1,8 +1,3 @@
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=117dd7&height=120&section=header"/>
-</a>
-
-
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
 
@@ -69,9 +64,6 @@
 
 
 
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=117dd7&height=120&section=footer"/>
-</a>
-
+<hr />
 
 
