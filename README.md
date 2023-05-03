@@ -3,7 +3,6 @@
 
 ### Namaste, I'm Pratham Bhandari <img align="left" alt="Coder GIF" height=250 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-
 ## I'm a Developer !!
 - 🌱 Ask me about Java & MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
