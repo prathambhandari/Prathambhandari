@@ -16,7 +16,6 @@
 [<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/>](https://paypal.me/prathamkbhandari?country.x=IN&locale.x=en_GB)
 <br>
 
-<strong>ETH :</strong> 0x95539980B555F08fd2B5BD58050b2c6F8da54c23
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/iampratham24)
