@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
+<!--![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)-->
 
 
 ### Namaste, I'm Pratham Bhandari <img align="left" alt="Coder GIF" height=250 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
@@ -6,9 +6,9 @@
 ## I'm a Developer !!
 - 🌱 Ask me about Java & MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
-- 🥅 2023 Goals: To be sucessful Developer and travel internationally
+- 🥅 2023 Goals: To be a successful Developer and travel internationally
 - ⚡ Fun fact: I love to Sing and play guitar
-- 💬 Love Astrophysics and travelling.
+- 💬 Love Astrophysics and traveling.
 <br />          
 
 ### You can help me by Donating:
