@@ -1,7 +1,7 @@
-<!--![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)-->
+![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
 
-### Namaste, I'm Pratham Bhandari <img align="left" alt="Coder GIF" height=250 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
+### Namaste, I'm Pratham Bhandari <!-- <img align="left" alt="Coder GIF" height=250 width=400 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />-->
 
 ## I'm a Developer !!
 - 🌱 Ask me about Java & MERN Stack.
