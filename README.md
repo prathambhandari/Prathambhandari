@@ -3,7 +3,7 @@
 
 ### Namaste, I'm Pratham Bhandari
 
-### [Connect with me 💻](prathambhandari.bio.link) 
+### [Connect with me 💻](https://prathambhandari.bio.link/) 
 
 ## I'm a Developer !!
 - 🌱 Ask me about Java & MERN Stack.
