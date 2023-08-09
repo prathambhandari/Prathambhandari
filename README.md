@@ -13,10 +13,6 @@
 - 💬 Love Astrophysics and traveling.
 <br />
 
-### You can help me by Donating:
-
-[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>](https://www.buymeacoffee.com/prathambhandari)
-
 
 ### Web Technology and Programming Languages:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,java,c,nodejs,expressjs,mongodb)
