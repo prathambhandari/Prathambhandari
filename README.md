@@ -19,7 +19,7 @@
 
 ### Cloud and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,)
 
 <hr />
 
