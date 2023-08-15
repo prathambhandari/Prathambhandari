@@ -5,6 +5,7 @@
 
 ### [Connect with me 💻](https://prathambhandari.bio.link/) 
 
+<!--
 ## I'm a Developer !!
 - 🌱 Ask me about Java & MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
@@ -28,3 +29,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathambhandari&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathambhandari&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathambhandari&theme=transparent)
+
+-->
