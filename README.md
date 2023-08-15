@@ -1,11 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
-
-### Namaste, I'm Pratham Bhandari
-
 ### [Connect with me 💻](https://prathambhandari.bio.link/) 
 
 <!--
+
+### Namaste, I'm Pratham Bhandari
 ## I'm a Developer !!
 - 🌱 Ask me about Java & MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
