@@ -3,7 +3,7 @@
 ### [Connect with me 💻](https://prathambhandari.bio.link/)
 
 
-<!--
+
 ### Namaste, I'm Pratham Bhandari
 ### Namaste, I'm Pratham Bhandari
 ## I'm a Developer !!
@@ -14,7 +14,7 @@
 - 💬 Love Astrophysics and traveling.
 <br />
 
-
+<!--
 ### Web Technology and Programming Languages:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,java,c,nodejs,expressjs,mongodb)
 
