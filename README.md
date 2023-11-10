@@ -14,7 +14,7 @@
 - 💬 Love Astrophysics and traveling.
 <br />
 
-<!--
+
 ### Web Technology and Programming Languages:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,java,c,nodejs,expressjs,mongodb)
 
@@ -30,4 +30,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathambhandari&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathambhandari&theme=transparent)
 
--->
+
