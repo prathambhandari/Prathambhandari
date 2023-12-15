@@ -9,7 +9,6 @@
 ## I'm a Developer !!
 - 🌱 Ask me about Java & MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
-- 🥅 2023 Goals: To be a successful Developer and travel internationally
 - ⚡ Fun fact: I love to Sing and play guitar
 - 💬 Love Astrophysics and traveling.
 <br />
