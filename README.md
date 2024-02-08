@@ -14,7 +14,6 @@
   
 <br />
 
-
 ### Web Technology and Programming Languages:
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,sass,java,c,nodejs,mongodb)
 
