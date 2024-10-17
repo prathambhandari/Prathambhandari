@@ -20,10 +20,10 @@
 ### Cloud and Tools:
 
 ![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,)
-
+<hr />
 -->
 
-<hr />
+
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathambhandari&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prathambhandari&theme=transparent)
