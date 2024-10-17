@@ -8,8 +8,8 @@
 ## I'm a Developer!
 - 🌱 Ask me about Java & MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
-- ⚡ Fun fact: I love to Sing and play guitar
-- 💬 Love Astrophysics and traveling.
+- ⚡ Fun fact: I love to Sing 
+- 💬 Love traveling.
   
 <br />
 
