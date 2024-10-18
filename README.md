@@ -1,8 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=prathambhandari&style=for-the-badge&color=grey)
 
-### [Connect with me 💻](https://www.prathambhandari.xyz/)
 
 <!--
+
+### [Connect with me 💻](https://www.prathambhandari.xyz/)
+
 
 ### Namaste, I'm Pratham Bhandari
 
