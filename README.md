@@ -2,7 +2,7 @@
 
 
 
-### [Connect with me 💻](https://www.prathambhandari.xyz/)
+### [Connect with me 💻](https://www.prathambhandari.com/)
 
 
 ### Namaste, I'm Pratham Bhandari
