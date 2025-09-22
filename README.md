@@ -8,7 +8,7 @@
 ### Namaste, I'm Pratham Bhandari
 
 ## I'm a Developer!
-- 🌱 Ask me about Java & MERN Stack.
+- 🌱 Ask me about MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
 - ⚡ Fun fact: I love to Sing 
 - 💬 Love traveling.
