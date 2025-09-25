@@ -10,7 +10,7 @@
 ## I'm a Developer!
 - 🌱 Ask me about MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
-- ⚡ Fun fact: I love to Sing 
+- ⚡ Fun fact: I love to sing 
 - 💬 Love traveling.
   
 <br />
