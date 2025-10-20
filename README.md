@@ -6,7 +6,7 @@
 
 
 ### Namaste, I'm Pratham Bhandari
-fwa
+
 ## I'm a Developer!
 - 🌱 Ask me about MERN Stack.
 - 👯 I’m looking to collaborate with other Developers 
