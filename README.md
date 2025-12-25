@@ -17,7 +17,7 @@
 
 
 ### Web Technology and Programming Languages:
-![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,nextjs,tailwind,java,c,nodejs,mongodb)
+![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,redux,nextjs,tailwind,java,c,cpp,express,nodejs,mongodb)
 
 ### Cloud and Tools:
 
