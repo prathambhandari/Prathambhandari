@@ -12,18 +12,10 @@ Full-Stack Web Developer focused on building modern web applications.
 - 🔭 Working with **React, Node.js, MongoDB, and TypeScript**
 - 👨‍🏫 Currently training 120+ students in Full-Stack Web Development
 - 🎓 Taught Git & GitHub to **7,000+ students** on Udemy
-- 🚀 Portfolio: [prathambhandari.com](https://www.prathambhandari.com)
 
-### Tech Stack
 
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS  
-**Backend:** Node.js • Express • MongoDB • Supabase  
-**Tools:** Git • Docker • Vercel • Linux
 
-### Connect with me
-- 🌐 [Portfolio](https://www.prathambhandari.com)
-- 💼 [LinkedIn](https://linkedin.com/in/prathambhandari)
-- 🐦 [Twitter](https://twitter.com/zewstaz)
+
 <br />
 
 
